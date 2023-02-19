@@ -1,0 +1,17 @@
+write income tax calculator code in c in following five modules
+1) add a new record 
+    In this it allows to add new records , it prompts user to enter new records
+2) List all the tax payer along with income tax to be paid
+    in this module it gives list all the available records displays how much tax
+3) search 
+    in this module it allows to search for specific or a particular record present in the database 
+    the system will search for the given input and gives output according to the data present using the 
+    algorithms of the system
+4) Edit
+    in this user want to edit a record or update some data into existing collection of data 
+    this takes the input from the user and checks wether the data which user wants to edit is present 
+    or not and then returns output accordingly 
+5) delete record
+    in this it allows to search and delete record they want helps uisers to delete duplicate or 
+    continuously occuring record which is not nedded into the database of the system
+    you must apply the file handling concept for data storage.

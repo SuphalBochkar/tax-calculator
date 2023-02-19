@@ -1,0 +1,4 @@
+SuphalBochkar 90000 3000.00
+Vishvesh 87000 2700.00
+Rajiv 85000 2500.00
+Kunal 82000 2000.0
